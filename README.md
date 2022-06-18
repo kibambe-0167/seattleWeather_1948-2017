@@ -1,3 +1,3 @@
-# kibambe-0167 - data about daily weather report from 1948 to 2017, with min and max temp of that day, probability it'll rain.
+# data about daily weather report from 1948 to 2017, with min and max temp of that day, probability it'll rain.
 
 # daily weather report from 1948-2017 with max and min temperature, i made a ML model with knn regression to predict the probability of rain on a particular day given the min and max temperature...
